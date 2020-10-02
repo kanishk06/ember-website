@@ -1,4 +1,4 @@
-# ember-website
+# ember-a static website
 
 This project contains the current emberjs.com website, using server-side rendering techniques to generate a static website.
 Components come from [ember-styleguide](https://github.com/ember-learn/ember-styleguide).
